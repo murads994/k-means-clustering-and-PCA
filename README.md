@@ -1,1 +1,4 @@
 # K-Means-clustering and PCA
+In this notebook, we will be exploring the k-means-clustering and PCA algorithms on the Madelon dataset which is a synthetic high-dimensional dataset with 500 features and 2,600 data points. 
+
+We will start by first fitting the k-means-clustering algorithm on the dataset for different k-values and try to choose the optimal k-value by looking at the "k. vs sse." plot and the silhouette score. Then we will be experimenting with different centroid initialization methods as they directly affect the performance of the k-means clustering algorithm. Lastly, we will be fitting a PCA dimensionality reduction algorithm on the same dataset, and choosing the principal components that explain 75% of the cumulative variation in the dataset and try to fit the k-means-clustering algorithm on the dataset once more to see how it will change our results of clustering. 
