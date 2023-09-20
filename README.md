@@ -1,2 +1,1 @@
-# k-means-clustering-and-PCA
-K Means Clustering and PCA
+# K-Means-clustering and PCA
